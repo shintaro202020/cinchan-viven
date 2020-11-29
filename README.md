@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sht47/sht47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![sht47's github stats](https://github-readme-stats.vercel.app/api?username=sht47?theme=dracula)](https://github.com/sht47/sht47)
+[![sht47's github stats](https://github-readme-stats.vercel.app/api?username=sht47&show_icons=true&theme=dracula)](https://github.com/sht47/sht47)
 
 <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&langs_count=8)](https://github.com/sht47/sht47)-->
