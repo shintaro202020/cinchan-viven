@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN Inc.](https://www.viven.co.jp). Our goal is to tackle the diffcult problem with good software and good ethics.
+I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN Inc.](https://www.viven.co.jp) Our goal is to tackle the diffcult problem with good software and good ethics.
 
 <!--
 # Publish Python Library of Grad-CAM Tensorflow until April 15, 2021. 
