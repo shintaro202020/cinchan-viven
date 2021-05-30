@@ -10,5 +10,5 @@ I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN, Inc.](http
 ### We are Full-time Backend Engineer, Computer Vision Research Engineer!! 
 #### Remote is possible, but I recommend you to work in Tokyo, Japan. 
 
-https://www.viven.co.jp/en/job-detail/fulltime-backend-engineer/ 
-https://www.viven.co.jp/en/job-detail/fulltime-cv-engineer/ 
+- https://www.viven.co.jp/en/job-detail/fulltime-backend-engineer/ 
+- https://www.viven.co.jp/en/job-detail/fulltime-cv-engineer/ 
