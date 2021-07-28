@@ -7,8 +7,8 @@ I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN, Inc.](http
 -->
 [![sht47's github stats](https://github-readme-stats.vercel.app/api?username=sht47&show_icons=true&theme=dracula)](https://github.com/sht47/sht47)
 
-### We are Full-time Backend Engineer, Computer Vision Research Engineer!! 
+### We are hiring Full-time Backend Engineer, Computer Vision Research Engineer!! 
 #### Remote is possible, but I recommend you to work in Tokyo, Japan. 
 
-- https://www.viven.co.jp/en/job-detail/fulltime-backend-engineer/ 
-- https://www.viven.co.jp/en/job-detail/fulltime-cv-engineer/ 
+- https://www.viven.inc/en/job-detail/fulltime-backend-engineer/ 
+- https://www.viven.inc/en/job-detail/fulltime-cv-engineer/ 
