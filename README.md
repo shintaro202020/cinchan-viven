@@ -6,7 +6,7 @@ I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN, Inc.](http
 # Publish Good Computer Vision Mdoel, DarkPose in Tensorflow  until April 30, 2021
 -->
 <a href="https://github.com/sht47/sht47">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sht47&count_private=true&title_color=6b7089" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sht47&count_private=true&bg_color=33374c&title_color=c6c8d1&text_color=c6c8d1&icon_color=e9b189&border_color=6b7089" />
 </a>
 <a href="https://github.com/sht47/sht47">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&layout=compact&langs_count=8&count_private=true" />
