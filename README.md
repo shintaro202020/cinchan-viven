@@ -9,7 +9,7 @@ I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN, Inc.](http
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sht47&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/sht47/sht47">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&layout=compact&langs_count=8&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&layout=compact&langs_count=8&count_private=true" />
 </a>
 
 ### We are hiring Full-time Backend Engineer, Computer Vision Research Engineer!! 
