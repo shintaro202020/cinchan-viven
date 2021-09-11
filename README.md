@@ -4,7 +4,7 @@ I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN, Inc.](http
 Our goal is to tackle the diffcult problem with good software, hardwared and ethics.
 
 <a href="https://github.com/sht47/sht47">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sht47&text_color=89b9c2&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sht47&bg_color=33374c&title_color=dcdfe7&text_color=c6c8d1&border_color=6b7089&count_private=true" />
 </a>
 <a href="https://github.com/sht47/sht47">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&langs_count=8&count_private=true" />
