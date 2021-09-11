@@ -5,8 +5,15 @@ I'm Shintaro Yoshida. I'm Co-Founder and Software Engineer on [VIVEN, Inc.](http
 # Publish Python Library of Grad-CAM Tensorflow until April 15, 2021. 
 # Publish Good Computer Vision Mdoel, DarkPose in Tensorflow  until April 30, 2021
 -->
-[![sht47's github stats](https://github-readme-stats.vercel.app/api?username=sht47&show_icons=true&theme=dracula&count_private=true)](https://github.com/sht47/sht47)
-[![sht47's most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&layout=compact&langs_count=8&count_private=true)](https://github.com/sht47/sht47)
+[![sht47's github stats](
+)](https://github.com/sht47/sht47)
+[![sht47's most used langs](
+<a href="https://github.com/sht47/sht47">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sht47&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github.com/sht47/sht47">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sht47&layout=compact&langs_count=8&count_private=true" />
+</a>
 
 ### We are hiring Full-time Backend Engineer, Computer Vision Research Engineer!! 
 #### Remote is possible, but I recommend you to work in Tokyo, Japan. 
